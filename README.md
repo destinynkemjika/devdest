@@ -10,7 +10,6 @@
 
 <p align="left"> <a href="https://twitter.com/destinynkemjika" target="blank"><img src="https://img.shields.io/twitter/follow/destinynkemjika?logo=twitter&style=for-the-badge" alt="destinynkemjika" /></a> </p>
 
-### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
