@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ikwerre-dev" alt="ikwerre-dev" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/honour_can_code" target="blank"><img src="https://img.shields.io/twitter/follow/honour_can_code?logo=twitter&style=for-the-badge" alt="honour_can_code" /></a> </p>
+<p align="left"> <a href="https://twitter.com/destinynkemjika" target="blank"><img src="https://img.shields.io/twitter/follow/destinynkemjika?logo=twitter&style=for-the-badge" alt="destinynkemjika" /></a> </p>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/ikwerredev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ikwerredev" height="30" width="40" /></a>
-<a href="https://twitter.com/honour_can_code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="honour_can_code" height="30" width="40" /></a>
+<a href="https://twitter.com/destinynkemjika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="destinynkemjika" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/robinsonhonouramadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="robinsonhonouramadi" height="30" width="40" /></a>
 <a href="https://instagram.com/robinsonhonour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="robinsonhonour" height="30" width="40" /></a>
 <a href="https://hashnode.com/@robinsonhonouramadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@robinsonhonouramadi" height="30" width="40" /></a>
