@@ -1,7 +1,6 @@
 <h2 align="center" style="font-size:1rem">I am Destiny, a Software Developer and Day Trader</h2>
 <h3 align="center">I build Websites & Applications(Windows, Android, iOS)</h3>
  <p><img align="center" style="width:10rem" src="https://wakatime.com/badge/user/ff25ea76-1c3d-4193-805a-45d2dffcecbf.svg" alt="ikwerre-dev" /></p>
-<p><img align="center" style="width:100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ikwerre-dev&theme=highcontrast" alt="ikwerre-dev" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ikwerre-dev&label=Profile%20views&color=0e75b6&style=flat-square" alt="ikwerre-dev" /> </p>
 <p align="center">
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ikwerre-dev"/></a>
